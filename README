@@ -1,0 +1,4 @@
+This is a Wordpress plugin that fixes the problems with scandinavian characters in slugs, usernames and filenames.
+
+This issue wont be fixed untill Wordpress 3.2 at least:
+Ref. patch #9591 http://core.trac.wordpress.org/ticket/9591
